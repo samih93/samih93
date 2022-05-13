@@ -1,5 +1,14 @@
 ## Hello, I'm Samih Damaj 👋
 
+👩‍💻 About Me :
+
+I am a Full Stack Developer  from Lebanon
+
+🔭 🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile & web and Desktop applications.
+
+
+
+⚡ In my free time, I solve problems on Facebook and telegram groups and read tech articles.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="iamSangam" /> </p>
 
@@ -35,12 +44,20 @@
 <code><img alt="bootstrap" title="bootstrap" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 <code><img alt="javascript"  height="50" src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png"></code> 
 <br/>
+<br/>
+
 <code><img alt="MS SQL Server"  height="50" src="https://th.bing.com/th/id/OIP.sluuRP9RbH3MPqzbFNLEmQHaF_?pid=ImgDet&rs=1"></code> 
  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="50" height="50"/></code>
-
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/></code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="50" height="50"/></code>
 
+
+<br/> <br/>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=digitalbuugle&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalbuugle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
