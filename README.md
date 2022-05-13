@@ -1,14 +1,12 @@
-## Hello, I'm Samih Damaj 👋
+  <h1 align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 
-👩‍💻 About Me :
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000ff&vCenter=true&size=22"></a>
+</p>
 
-I am a Full Stack Developer  from Lebanon
+🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile & web and Desktop applications.
 
-🔭 🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile & web and Desktop applications.
-
-
-
-⚡ In my free time, I solve problems on Facebook and telegram groups and read tech articles.
+⚡ In my free time, I solve problems in dev groups and read latest tech articles.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="iamSangam" /> </p>
 
@@ -28,37 +26,76 @@ I am a Full Stack Developer  from Lebanon
 </a>
 
 <br/>
-<br/>
-#Languages and Tools :
-<br/>
 
-<code><img title="C#" alt="C#" height="50" src="https://th.bing.com/th/id/OIP.ul2S_yuHa64vGSuAXgwptAHaF1?pid=ImgDet&rs=1"></code> 
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="50" height="50"/></code>
-<code><img alt="Java" title="java" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img alt="android" title="android"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img alt="dot net core" title="dot net core"  height="50" src="https://wpguru.co.uk/wp-content/uploads/2020/04/dotnet-logo.png"></code> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
-<code><img alt="firebase" title="firebase"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
-<code><img alt="html" title="html"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img alt="css" title="css" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img alt="bootstrap" title="bootstrap" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
-<code><img alt="javascript"  height="50" src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png"></code> 
-<br/>
-<br/>
+## 🔥 Streak stats
 
-<code><img alt="MS SQL Server"  height="50" src="https://th.bing.com/th/id/OIP.sluuRP9RbH3MPqzbFNLEmQHaF_?pid=ImgDet&rs=1"></code> 
- <code> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="50" height="50"/></code>
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/></code>
-<code> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="50" height="50"/></code>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/samih93/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samih93&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 
-<br/> <br/>
+## 🛠️ My favorite tools
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=digitalbuugle&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 👨‍💻 Programming and markup languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalbuugle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<code><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></code>
+<code><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></code>
+<code><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></code>
+<code><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+</code>
+<code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></code>
+    <code><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></code>
+<code><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+</code>
 
+### 📚 Frameworks and libraries
+
+
+<code><img alt="dot net core" title="dot net core"  height="30" src="https://wpguru.co.uk/wp-content/uploads/2020/04/dotnet-logo.png"></code> 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="30"/></code>
+  <code><img alt="bootstrap" title="bootstrap" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
+    <code><img height="30" alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></code>
+    <code><img alt="GitHub Actions"  height="30"  src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></code>
+
+
+### 🗄️ Databases and cloud hosting
+<code><img alt="MS SQL Server"  height="30" src="https://th.bing.com/th/id/OIP.sluuRP9RbH3MPqzbFNLEmQHaF_?pid=ImgDet&rs=1"></code> 
+<code><img alt="Oracle"  height="30" src="https://th.bing.com/th/id/R.751c89e771ef0a0adac67f5bb43eccc3?rik=oYcAkKAkK4irRg&pid=ImgRaw&r=0"></code>
+   <code><img alt="MongoDB" height="30"  src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></code>
+   <code><img alt="SQLite" height="30" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></code>
+   <code><img alt="firebase" title="firebase"  height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
+    <a href="#"><img alt="GitHub Pages"  height="30" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+
+💻 Software and tools
+
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="50" height="30"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="30"/></code>
+   <code><img alt="Android Studio" height="30" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></code>
+   <code><img alt="Postman" height="30" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></code>
+   <cdoe><img alt="Stack Overflow" height="30" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></code>
+
+
+
+
+## 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/samih93/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
 
 
 
