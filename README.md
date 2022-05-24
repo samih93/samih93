@@ -8,7 +8,7 @@
 
 ⚡ In my free time, I solve problems in dev groups and read latest tech articles.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="iamSangam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samih93&label=Views&color=green&style=plastic" alt="samih93" /> </p>
 
 
 <a href="https://twitter.com/damajsam">
