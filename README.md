@@ -104,7 +104,7 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 
 <br/>
 
-## Top Projects
+<!-- ## Top Projects
 Flutter mobile app
 <img src="https://user-images.githubusercontent.com/78031951/158561373-fb5ea325-2449-4f25-9619-a30dec5170ba.png">
 Flutter mobile app
@@ -112,3 +112,4 @@ Flutter mobile app
 .net web app
 <img src="https://user-images.githubusercontent.com/78031951/150747672-d7fe460c-ff65-4b0a-87ff-5cb51050fa71.jpg">
 
+ -->
