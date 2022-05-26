@@ -100,7 +100,3 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 <a href="https://github.com/samih93"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=samih93&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
 
-
-<br/>
-![158561373-fb5ea325-2449-4f25-9619-a30dec5170ba](https://user-images.githubusercontent.com/78031951/170569869-710d1da5-748c-4ef5-8918-9c5eae893574.png)
-
