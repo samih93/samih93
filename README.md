@@ -69,7 +69,7 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
    <code><img alt="firebase" title="firebase"  height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
     <a href="#"><img alt="GitHub Pages"  height="30" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 
-💻 Software and tools
+### 💻 Software and tools
 
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="50" height="30"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="30"/></code>
@@ -99,4 +99,14 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/samih93"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=samih93&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
+
+<br/>
+
+## Top Projects
+Flutter mobile app
+<img src="https://user-images.githubusercontent.com/78031951/158561373-fb5ea325-2449-4f25-9619-a30dec5170ba.png">
+Flutter mobile app
+<img src="https://user-images.githubusercontent.com/78031951/157836464-a1379148-c077-4792-9d5a-bc7ed393262b.png">
+.net web app
+<img src="https://user-images.githubusercontent.com/78031951/150747672-d7fe460c-ff65-4b0a-87ff-5cb51050fa71.jpg">
 
