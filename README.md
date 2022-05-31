@@ -103,16 +103,24 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
   </details>
 
 <br/>
-## favorites Projects
-![facebook_clone1]()
-<img src="https://user-images.githubusercontent.com/78031951/170950704-f8fc7208-d35f-45e3-b589-ecf4487140f6.PNG">
 
-<!-- 
-Flutter mobile app
+##  ♥ favorites Projects
+
+### Social media flutter app
+<img src="https://user-images.githubusercontent.com/78031951/170950704-f8fc7208-d35f-45e3-b589-ecf4487140f6.PNG">
+<img src="https://user-images.githubusercontent.com/78031951/170953817-28941ffd-3e61-404e-9093-1a7d940d73b1.PNG">
+
+### Ecommerce flutter app
+
 <img src="https://user-images.githubusercontent.com/78031951/158561373-fb5ea325-2449-4f25-9619-a30dec5170ba.png">
-Flutter mobile app
+
+### Event Todo
+
 <img src="https://user-images.githubusercontent.com/78031951/157836464-a1379148-c077-4792-9d5a-bc7ed393262b.png">
-.net web app
+
+### Dot net core web app 
+
 <img src="https://user-images.githubusercontent.com/78031951/150747672-d7fe460c-ff65-4b0a-87ff-5cb51050fa71.jpg">
 
- -->
+
+
