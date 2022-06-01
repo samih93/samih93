@@ -118,7 +118,7 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 
 <img src="https://user-images.githubusercontent.com/78031951/157836464-a1379148-c077-4792-9d5a-bc7ed393262b.png">
 
-### Dot net building reservation web app 
+### Dot net buildings reservation web app 
 
 <img src="https://user-images.githubusercontent.com/78031951/150747672-d7fe460c-ff65-4b0a-87ff-5cb51050fa71.jpg">
 
