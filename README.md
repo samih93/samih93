@@ -106,7 +106,7 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 
 ##  ♥ favorites Projects
 
-### Social media flutter app
+### Social media flutter app - clone facebook (backend Firebase)
 <img src="https://user-images.githubusercontent.com/78031951/170950704-f8fc7208-d35f-45e3-b589-ecf4487140f6.PNG">
 <img src="https://user-images.githubusercontent.com/78031951/170953817-28941ffd-3e61-404e-9093-1a7d940d73b1.PNG">
 
