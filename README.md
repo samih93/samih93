@@ -7,6 +7,8 @@ align="center"><b>Welcome to Samih Damaj Profile 👋</b></h1>
 
 🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile & web and Desktop applications.
 
+🌱  I’m currently learning Flutter ❤️ 
+
 ⚡ In my free time, I solve problems in dev groups and read latest tech articles.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="samih93" /> </p>
