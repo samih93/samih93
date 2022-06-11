@@ -119,7 +119,9 @@
 
 ### Events Todo  <a href="https://youtu.be/46nVCXpPo00">Demo</a>
 
-<img src="https://user-images.githubusercontent.com/78031951/157836464-a1379148-c077-4792-9d5a-bc7ed393262b.png">
+<img src="https://user-images.githubusercontent.com/78031951/173202162-dd62398f-fbf0-4471-a8a9-516e6126fb72.png">
+<img src="https://user-images.githubusercontent.com/78031951/173202163-fffb8b10-8d47-4bf6-95e2-70cb2065dd89.png">
+
 
 ### Dot net buildings reservation web app 
 
