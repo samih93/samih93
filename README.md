@@ -121,6 +121,12 @@
 <img src="https://user-images.githubusercontent.com/78031951/173202162-dd62398f-fbf0-4471-a8a9-516e6126fb72.png">
 <img src="https://user-images.githubusercontent.com/78031951/173202163-fffb8b10-8d47-4bf6-95e2-70cb2065dd89.png">
 
+### Pos System 
+<img src="https://user-images.githubusercontent.com/78031951/174441858-c21db5f1-854c-45ef-b91d-25e0d8c593a7.png">
+
+reports
+<img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
+
 
 ### Dot net buildings reservation web app 
 
