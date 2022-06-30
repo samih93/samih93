@@ -118,6 +118,12 @@
 <img src="https://user-images.githubusercontent.com/78031951/172792943-7b19e294-28e5-47c0-89da-b09791b74e60.PNG">
 <img src="https://user-images.githubusercontent.com/78031951/172797236-0deb36e5-bbd4-4e6e-8cab-d8e10614b831.PNG">
 
+<h3><b>Admin Panel<b></hr>
+<img src="https://user-images.githubusercontent.com/78031951/176771294-d1115a27-1a73-4bf7-88c8-8d2cbe92762b.PNG">
+<img src="https://user-images.githubusercontent.com/78031951/176771306-375e748f-97f4-47b1-961f-ea11329c8dbd.PNG">
+
+
+
 
 ### Pos System  <a href="https://youtu.be/8bOjXXn_E20">Demo</a>
 
