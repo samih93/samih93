@@ -63,7 +63,6 @@
 
 ### 🗄️ Databases and cloud hosting
 <code><img alt="MS SQL Server"  height="30" src="https://th.bing.com/th/id/OIP.sluuRP9RbH3MPqzbFNLEmQHaF_?pid=ImgDet&rs=1"></code> 
-
 <code><img alt="Oracle"  height="30" src="https://user-images.githubusercontent.com/78031951/179714965-00efe9e9-5efc-4284-9c06-89c7374d2f9d.png"></code>
    <code><img alt="MongoDB" height="30"  src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></code>
    <code><img alt="SQLite" height="30" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></code>
