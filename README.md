@@ -138,14 +138,10 @@
   
 <img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
 <hr/>
-  
-  
-  ### Flutter Desktop Pos System (.net core 6 and sql server as backend )  <a href="[https://youtu.be/8bOjXXn_E20](https://youtu.be/MVM977f5r1s)">Demo</a>  
+ 
+### Flutter Desktop Pos System (.net core 6 and sql server as backend )  <a href="[https://youtu.be/8bOjXXn_E20](https://youtu.be/MVM977f5r1s)">Demo</a>  
   <img src="https://user-images.githubusercontent.com/78031951/198571688-6fc85d06-5a31-4f44-a45f-539e8b10fe92.png">
 <hr/>
-
-
-
 
 ### Events Todo  <a href="https://youtu.be/46nVCXpPo00">Demo</a>
 
