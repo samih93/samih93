@@ -139,8 +139,14 @@
 <img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
 <hr/>
  
-### Flutter Desktop Pos System (.net core 6 and sql server as backend )  <a href="https://youtu.be/3YTZ62Ltg0E">Demo</a>  
-  <img src="https://user-images.githubusercontent.com/78031951/198571688-6fc85d06-5a31-4f44-a45f-539e8b10fe92.png">
+### Flutter Desktop Pos System (.net core 6 and sql server as backend or sqlite)  <a href="https://youtu.be/3YTZ62Ltg0E">Demo</a>  
+  <img src="https://user-images.githubusercontent.com/78031951/211598677-d907097d-0987-4cfa-b051-78840337490f.JPG">
+  <img src="https://user-images.githubusercontent.com/78031951/211598686-dfabf537-9335-4e03-91ac-da0679f5602f.JPG">
+  <img src="https://user-images.githubusercontent.com/78031951/211598693-ab043fcc-0c05-4bf8-a06b-f49d78b6feac.JPG">
+  
+  <img src="https://user-images.githubusercontent.com/78031951/211598697-1b6e4793-58c3-4b41-8f0f-f09fbef353ad.JPG">
+  <img src="https://user-images.githubusercontent.com/78031951/211598700-8450efc2-b6a9-4ae3-9516-9b2449df13aa.JPG">
+  <img src="https://user-images.githubusercontent.com/78031951/211598704-97694ec5-c54a-4f49-ba6f-81f8a1e87b53.JPG">  
 <hr/>
 
 ### Events Todo  <a href="https://youtu.be/46nVCXpPo00">Demo</a>
