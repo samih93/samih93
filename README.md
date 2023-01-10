@@ -102,7 +102,7 @@
   <br/>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/samih93"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=samih93&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/samih93"><img alt="samih93's Activity Graph" src="https://samih93-activity-graph.herokuapp.com/graph/?username=samih93&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
 
 <br/>
