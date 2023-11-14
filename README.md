@@ -1,7 +1,7 @@
   <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/JohannesMilke?sub_confirmation=1">Samih damaj!</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000ff&vCenter=true&size=22"></a>
 </p>
 
 🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile & web and Desktop applications.
