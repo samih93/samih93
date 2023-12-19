@@ -138,16 +138,31 @@
   
 <img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
 <hr/>
+ ### Flutter Advanced Pos System (caffe , restaurant , supermarket ,Bakery .... )  <a href="#">Demo</a>  
+
+
+
+
+
+
+
+
+
  
-### Flutter Desktop Pos System (.net core 6 and sql server as backend or sqlite)  <a href="https://youtu.be/3YTZ62Ltg0E">Demo</a>  
-  <img src="https://user-images.githubusercontent.com/78031951/211598677-d907097d-0987-4cfa-b051-78840337490f.JPG">
-  <img src="https://user-images.githubusercontent.com/78031951/211598686-dfabf537-9335-4e03-91ac-da0679f5602f.JPG">
-  <img src="https://user-images.githubusercontent.com/78031951/211598693-ab043fcc-0c05-4bf8-a06b-f49d78b6feac.JPG">
-  
-  <img src="https://user-images.githubusercontent.com/78031951/211598697-1b6e4793-58c3-4b41-8f0f-f09fbef353ad.JPG">
-  <img src="https://user-images.githubusercontent.com/78031951/211598700-8450efc2-b6a9-4ae3-9516-9b2449df13aa.JPG">
-  <img src="https://user-images.githubusercontent.com/78031951/211598704-97694ec5-c54a-4f49-ba6f-81f8a1e87b53.JPG">  
+ <img src="https://github.com/samih93/samih93/assets/78031951/424097ff-569e-4cc4-9206-4bcb38f1dee4">
+  <img src="https://github.com/samih93/samih93/assets/78031951/64dfb5a1-4160-484f-991e-0c7d5b6c834e">
+    <img src="https://github.com/samih93/samih93/assets/78031951/219cb060-6df5-4d68-b337-83b0ceb94ebb">
+     <img src="https://github.com/samih93/samih93/assets/78031951/19f2ec02-9adf-4286-9032-d86c440ec434">
+      <img src="https://github.com/samih93/samih93/assets/78031951/af403211-1c22-4536-aeef-9f9a088e220b">
+     <img src="https://github.com/samih93/samih93/assets/78031951/180adff0-b949-49f7-8d38-234708eed56a">
+       <img src="https://github.com/samih93/samih93/assets/78031951/bbd18145-9da7-40dd-bccb-5a428dea1596">
+        <img src="https://github.com/samih93/samih93/assets/78031951/cda8f0f8-9767-4a77-ba61-50aae276c395">
+           <img src="https://github.com/samih93/samih93/assets/78031951/248e57b5-e24d-4e88-b152-b64184dbdd45">
+         <img src="https://github.com/samih93/samih93/assets/78031951/ad9fb435-b02a-48f8-ab1e-66408c74af72">
+          <img src="https://github.com/samih93/samih93/assets/78031951/057be4e7-4a06-4a3f-a6ea-154fa4a593ac">
 <hr/>
+
+
 
 ### Events Todo  <a href="https://youtu.be/46nVCXpPo00">Demo</a>
 
