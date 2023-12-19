@@ -109,6 +109,26 @@
 
 ##  ♥ favorites Projects
 
+ ### DamajTech Pos System (caffe , restaurant , supermarket ,Bakery .... )  <!-- <a href="#">Demo</a>  -->
+
+ <img src="https://github.com/samih93/samih93/assets/78031951/424097ff-569e-4cc4-9206-4bcb38f1dee4">
+  <img src="https://github.com/samih93/samih93/assets/78031951/64dfb5a1-4160-484f-991e-0c7d5b6c834e">
+    <img src="https://github.com/samih93/samih93/assets/78031951/219cb060-6df5-4d68-b337-83b0ceb94ebb">
+     <img src="https://github.com/samih93/samih93/assets/78031951/19f2ec02-9adf-4286-9032-d86c440ec434">
+      <img src="https://github.com/samih93/samih93/assets/78031951/af403211-1c22-4536-aeef-9f9a088e220b">
+     <img src="https://github.com/samih93/samih93/assets/78031951/180adff0-b949-49f7-8d38-234708eed56a">
+       <img src="https://github.com/samih93/samih93/assets/78031951/bbd18145-9da7-40dd-bccb-5a428dea1596">
+        <img src="https://github.com/samih93/samih93/assets/78031951/cda8f0f8-9767-4a77-ba61-50aae276c395">
+           <img src="https://github.com/samih93/samih93/assets/78031951/248e57b5-e24d-4e88-b152-b64184dbdd45">
+         <img src="https://github.com/samih93/samih93/assets/78031951/ad9fb435-b02a-48f8-ab1e-66408c74af72">
+          <img src="https://github.com/samih93/samih93/assets/78031951/057be4e7-4a06-4a3f-a6ea-154fa4a593ac">
+          <img src="https://github.com/samih93/samih93/assets/78031951/d42cd4e7-105d-4252-8be4-85fe16cc2efa">
+          <img src="https://github.com/samih93/samih93/assets/78031951/60c766bf-4d76-4bc5-af4d-5ad8f79c30ab">
+       
+
+<hr/>
+
+
 ### Social media flutter app - clone facebook (backend Firebase) <a href="https://youtu.be/xWbw0rxFods">Demo</a>
 <img src="https://user-images.githubusercontent.com/78031951/170950704-f8fc7208-d35f-45e3-b589-ecf4487140f6.PNG">
 <img src="https://user-images.githubusercontent.com/78031951/170953817-28941ffd-3e61-404e-9093-1a7d940d73b1.PNG">
@@ -139,24 +159,7 @@
 <img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
 <hr/>
 
- ### DamajTech Pos System (caffe , restaurant , supermarket ,Bakery .... )  <!-- <a href="#">Demo</a>  -->
 
- <img src="https://github.com/samih93/samih93/assets/78031951/424097ff-569e-4cc4-9206-4bcb38f1dee4">
-  <img src="https://github.com/samih93/samih93/assets/78031951/64dfb5a1-4160-484f-991e-0c7d5b6c834e">
-    <img src="https://github.com/samih93/samih93/assets/78031951/219cb060-6df5-4d68-b337-83b0ceb94ebb">
-     <img src="https://github.com/samih93/samih93/assets/78031951/19f2ec02-9adf-4286-9032-d86c440ec434">
-      <img src="https://github.com/samih93/samih93/assets/78031951/af403211-1c22-4536-aeef-9f9a088e220b">
-     <img src="https://github.com/samih93/samih93/assets/78031951/180adff0-b949-49f7-8d38-234708eed56a">
-       <img src="https://github.com/samih93/samih93/assets/78031951/bbd18145-9da7-40dd-bccb-5a428dea1596">
-        <img src="https://github.com/samih93/samih93/assets/78031951/cda8f0f8-9767-4a77-ba61-50aae276c395">
-           <img src="https://github.com/samih93/samih93/assets/78031951/248e57b5-e24d-4e88-b152-b64184dbdd45">
-         <img src="https://github.com/samih93/samih93/assets/78031951/ad9fb435-b02a-48f8-ab1e-66408c74af72">
-          <img src="https://github.com/samih93/samih93/assets/78031951/057be4e7-4a06-4a3f-a6ea-154fa4a593ac">
-          <img src="https://github.com/samih93/samih93/assets/78031951/d42cd4e7-105d-4252-8be4-85fe16cc2efa">
-          <img src="https://github.com/samih93/samih93/assets/78031951/60c766bf-4d76-4bc5-af4d-5ad8f79c30ab">
-       
-
-<hr/>
 
 
 
