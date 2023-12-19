@@ -139,7 +139,7 @@
 <img src="https://user-images.githubusercontent.com/78031951/174441862-177f4a4a-7294-4e39-b481-3e6e89c6a97f.png">
 <hr/>
 
- ### Flutter DamajTech Pos System (caffe , restaurant , supermarket ,Bakery .... )  <!-- <a href="#">Demo</a>  -->
+ ### DamajTech Pos System (caffe , restaurant , supermarket ,Bakery .... )  <!-- <a href="#">Demo</a>  -->
 
  <img src="https://github.com/samih93/samih93/assets/78031951/424097ff-569e-4cc4-9206-4bcb38f1dee4">
   <img src="https://github.com/samih93/samih93/assets/78031951/64dfb5a1-4160-484f-991e-0c7d5b6c834e">
