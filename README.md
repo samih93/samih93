@@ -121,10 +121,10 @@
         <img src="https://github.com/samih93/samih93/assets/78031951/cda8f0f8-9767-4a77-ba61-50aae276c395">
            <img src="https://github.com/samih93/samih93/assets/78031951/248e57b5-e24d-4e88-b152-b64184dbdd45">
          <img src="https://github.com/samih93/samih93/assets/78031951/ad9fb435-b02a-48f8-ab1e-66408c74af72">
-          <img src="https://github.com/samih93/samih93/assets/78031951/057be4e7-4a06-4a3f-a6ea-154fa4a593ac">
+          <img src="https://github.com/samih93/samih93/assets/78031951/310d9b3e-e46d-4b1a-957d-ce5eba8618d3">
           <img src="https://github.com/samih93/samih93/assets/78031951/d42cd4e7-105d-4252-8be4-85fe16cc2efa">
           <img src="https://github.com/samih93/samih93/assets/78031951/60c766bf-4d76-4bc5-af4d-5ad8f79c30ab">
-       
+
 
 <hr/>
 
